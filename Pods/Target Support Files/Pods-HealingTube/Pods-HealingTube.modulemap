@@ -1,0 +1,6 @@
+framework module Pods_HealingTube {
+  umbrella header "Pods-HealingTube-umbrella.h"
+
+  export *
+  module * { export * }
+}
